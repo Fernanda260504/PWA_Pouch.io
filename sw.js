@@ -1,5 +1,4 @@
 const cacheName = 'offline-cache-v1';
-
 const WC = [
   '/',
   '/index.html',
